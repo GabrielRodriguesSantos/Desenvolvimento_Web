@@ -1,0 +1,28 @@
+h1{
+    background-color:rgb(148, 148, 148);
+    color:white ;
+    text-shadow: 3px 3px black;
+
+}
+body{
+    background-color:rgb(148, 148, 148) ;
+    color: rgb(80, 19, 121);
+}
+button{ border-radius: 9px;
+background-color: rgb(148, 148, 148);
+}
+textarea{
+   background-color:rgb(124, 123, 123)
+}
+input{ background-color: rgb(148, 148, 148);}
+img{
+    float:left;
+    border-radius: 20px;
+}
+header {
+  background-color: #797878;
+  text-align: center;
+  padding: 10px;
+}
+
+/* Texto usado para enviar para o GitHub " "git push origin master" */
